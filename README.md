@@ -47,7 +47,6 @@ Click [My Git Hub](https://github.com/kjeams/AI_Project_3_A)
 <!-- Table -->
 
 |Header|Description|other|
-
 |--:|:--|:--:|
 |Cell1|Cell2|Cell3|
 |Cell1|Cell2|Cell3|
@@ -62,7 +61,6 @@ Click [My Git Hub](https://github.com/kjeams/AI_Project_3_A)
 <!-- Code -->
 
 debug console Sample 'Debug.log("--")'
-
 
 '''C#
 Debug.log("--")
